@@ -25,6 +25,7 @@ public class ScreenCapService extends IntentService {
         showToast("Startig ScreenCap service...");
 
 
+
         showToast("Shutting down ScreenCap service...");
     }
 
